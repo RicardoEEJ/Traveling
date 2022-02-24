@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Traveling</string>
+    <string name="tu_app_de_viajes">Tu App De Viajes</string>
+    <string name="mensaje_principal">Hola, buscamos gente exactamente como tu, te gusta viajar, y conocer lugares nuevos? seras escencial para nuestra nueva y emprendedora aplicacion, disfruta de coches, y recomendaciones de hoteles a tiempo real.</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="header">Upcoming Meetups</string>
+    <string name="los_angeles">Los Angeles</string>
+    <string name="beach_vacation">Beach Vacation</string>
 </resources>
